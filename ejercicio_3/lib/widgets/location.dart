@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Location extends StatelessWidget {
-  const new({super.key});
+  const Location({super.key});
 
   @override
   Widget build(BuildContext context) {

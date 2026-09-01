@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ProxDias extends StatelessWidget {
-  const new({super.key});
+  const ProxDias({super.key});
 
   @override
   Widget build(BuildContext context) {

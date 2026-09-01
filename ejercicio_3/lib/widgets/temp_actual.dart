@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class TempActual extends StatelessWidget {
-  const new({super.key});
+  const TempActual({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Indicadores extends StatelessWidget {
-  const new({super.key});
+  const Indicadores({super.key});
 
   @override
   Widget build(BuildContext context) {
